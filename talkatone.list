@@ -1,5 +1,4 @@
 # 以下为该软件部分去广告规则
-DOMAIN-KEYWORD,googleads,reject
 DOMAIN-SUFFIX,aax.amazon-adsystem.com,reject
 DOMAIN-SUFFIX,aax-fe.amazon-adsystem.com,reject
 DOMAIN-SUFFIX,aax-fe-sin.amazon-adsystem.com,reject
