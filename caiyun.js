@@ -9,7 +9,7 @@ Platform : Quantumult X / Loon / Surge
 MITM 重写响应体，解锁彩云天气会员功能。
 
 [rewrite_local]
-^https://biz\.cyapi\.cn/ url script-response-body https://raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/caiyun/caiyun.js
+^https://*\.cyapi\.cn/ url script-response-body https://raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/caiyun/caiyun.js
 
 [MITM]
 hostname = *.cyapi.cn
